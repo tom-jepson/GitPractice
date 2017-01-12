@@ -2,4 +2,4 @@ Hello,
 
 This is the file to make changes in.
 
-[Change the words within these brackets]
+[Changes]
